@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0839874E-7223-461F-A312-8D017D8FEF33}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>horse.My.MyApplication</StartupObject>
+    <RootNamespace>horse</RootNamespace>
+    <AssemblyName>horse</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>horse.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>horse.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Mono.Security">
+      <HintPath>C:\Users\SAN\Desktop\Npgsql2.0.12.0-bin-ms.net4.0\Npgsql2.0.12.0-bin-ms.net4.0\Mono.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql">
+      <HintPath>C:\Users\SAN\Desktop\Npgsql2.0.12.0-bin-ms.net4.0\Npgsql2.0.12.0-bin-ms.net4.0\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="policy.2.0.Npgsql">
+      <HintPath>C:\Users\SAN\Desktop\Npgsql2.0.12.0-bin-ms.net4.0\Npgsql2.0.12.0-bin-ms.net4.0\policy.2.0.Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="VIBlend.WinForms.Controls, Version=9.0.0.0, Culture=neutral, PublicKeyToken=6feea38fef5ea0cf" />
+    <Reference Include="VIBlend.WinForms.Utilities, Version=8.0.0.0, Culture=neutral, PublicKeyToken=970a5af59bc48043" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BD.vb" />
+    <Compile Include="FormAgregar.Designer.vb">
+      <DependentUpon>FormAgregar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAgregar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBuscarAvanzado.Designer.vb">
+      <DependentUpon>FormBuscarAvanzado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBuscarAvanzado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formBuscarHistoria.Designer.vb">
+      <DependentUpon>formBuscarHistoria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formBuscarHistoria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeFotoMostrada.Designer.vb">
+      <DependentUpon>FormDeFotoMostrada.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeFotoMostrada.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHistoriaClinica.Designer.vb">
+      <DependentUpon>FormHistoriaClinica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormHistoriaClinica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInfoGeneral.Designer.vb">
+      <DependentUpon>FormInfoGeneral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormInfoGeneral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.vb">
+      <DependentUpon>FormPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSenasParticulares.Designer.vb">
+      <DependentUpon>FormSenasParticulares.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormSenasParticulares.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formVacunas.Designer.vb">
+      <DependentUpon>formVacunas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formVacunas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicioSesion.Designer.vb">
+      <DependentUpon>InicioSesion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InicioSesion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="utilidades.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormAgregar.resx">
+      <DependentUpon>FormAgregar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBuscarAvanzado.resx">
+      <DependentUpon>FormBuscarAvanzado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formBuscarHistoria.resx">
+      <DependentUpon>formBuscarHistoria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDeFotoMostrada.resx">
+      <DependentUpon>FormDeFotoMostrada.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHistoriaClinica.resx">
+      <DependentUpon>FormHistoriaClinica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInfoGeneral.resx">
+      <DependentUpon>FormInfoGeneral.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSenasParticulares.resx">
+      <DependentUpon>FormSenasParticulares.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formVacunas.resx">
+      <DependentUpon>formVacunas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicioSesion.resx">
+      <DependentUpon>InicioSesion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arbol.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

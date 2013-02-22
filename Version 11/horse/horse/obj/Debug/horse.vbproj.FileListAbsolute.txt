@@ -1,0 +1,454 @@
+c:\users\san\documents\visual studio 2012\Projects\horse\horse\bin\Debug\horse.exe.config
+c:\users\san\documents\visual studio 2012\Projects\horse\horse\bin\Debug\horse.exe
+c:\users\san\documents\visual studio 2012\Projects\horse\horse\bin\Debug\horse.pdb
+c:\users\san\documents\visual studio 2012\Projects\horse\horse\bin\Debug\horse.xml
+c:\users\san\documents\visual studio 2012\Projects\horse\horse\obj\Debug\horse.Resources.resources
+c:\users\san\documents\visual studio 2012\Projects\horse\horse\obj\Debug\horse.SplashScreen1.resources
+c:\users\san\documents\visual studio 2012\Projects\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
+c:\users\san\documents\visual studio 2012\Projects\horse\horse\obj\Debug\horse.exe
+c:\users\san\documents\visual studio 2012\Projects\horse\horse\obj\Debug\horse.xml
+c:\users\san\documents\visual studio 2012\Projects\horse\horse\obj\Debug\horse.pdb
+c:\users\san\documents\visual studio 2012\Projects\horse\horse\obj\Debug\horse.LoginForm1.resources
+c:\users\san\documents\visual studio 2012\Projects\horse\horse\obj\Debug\horse.MDIParent1.resources
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\horse.exe.config
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.exe
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.xml
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.pdb
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\horse.exe
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\horse.pdb
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\horse.xml
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.Resources.resources
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.SplashScreen1.resources
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
+C:\Users\Cooperativa\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\horse.exe.config
+C:\Users\Cooperativa\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.exe
+C:\Users\Cooperativa\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.xml
+C:\Users\Cooperativa\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.pdb
+C:\Users\Cooperativa\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\horse.exe
+C:\Users\Cooperativa\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\horse.pdb
+C:\Users\Cooperativa\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\horse.xml
+C:\Users\Cooperativa\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.LoginForm1.resources
+C:\Users\Cooperativa\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.Resources.resources
+C:\Users\Cooperativa\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.SplashScreen1.resources
+C:\Users\Cooperativa\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
+C:\Users\Cooperativa\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.FormModulos.resources
+C:\Users\Cooperativa\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.FormInfoGeneral.resources
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.FormInfoGeneral.resources
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.FormBuscarAvanzado.resources
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\Npgsql.pdb
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\Npgsql.xml
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\de\Npgsql.resources.dll
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\es\Npgsql.resources.dll
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\fi\Npgsql.resources.dll
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\fr\Npgsql.resources.dll
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\ja\Npgsql.resources.dll
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\policy.2.0.Npgsql.config
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.vbprojResolveAssemblyReference.cache
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.FormAgregar.resources
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.FormPrincipal.resources
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.InicioSesion.resources
+D:\Dropbox\Programacion TESIS\horse\horse\bin\Debug\horse.exe.config
+D:\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.exe
+D:\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.xml
+D:\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.pdb
+D:\Dropbox\Programacion TESIS\horse\horse\bin\Debug\horse.exe
+D:\Dropbox\Programacion TESIS\horse\horse\bin\Debug\horse.pdb
+D:\Dropbox\Programacion TESIS\horse\horse\bin\Debug\horse.xml
+D:\Dropbox\Programacion TESIS\horse\horse\bin\Debug\Npgsql.pdb
+D:\Dropbox\Programacion TESIS\horse\horse\bin\Debug\Npgsql.xml
+D:\Dropbox\Programacion TESIS\horse\horse\bin\Debug\de\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\horse\horse\bin\Debug\es\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\horse\horse\bin\Debug\fi\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\horse\horse\bin\Debug\fr\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\horse\horse\bin\Debug\ja\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\horse\horse\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\horse\horse\bin\Debug\policy.2.0.Npgsql.config
+D:\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.vbprojResolveAssemblyReference.cache
+D:\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.FormAgregar.resources
+D:\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.FormBuscarAvanzado.resources
+D:\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.FormInfoGeneral.resources
+D:\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.FormPrincipal.resources
+D:\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.InicioSesion.resources
+D:\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.Resources.resources
+D:\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.SplashScreen1.resources
+D:\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
+D:\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.FormDeFotoMostrada.resources
+D:\Dropbox\horse\horse\bin\Debug\horse.exe.config
+D:\Dropbox\horse\horse\obj\Debug\horse.exe
+D:\Dropbox\horse\horse\obj\Debug\horse.xml
+D:\Dropbox\horse\horse\obj\Debug\horse.pdb
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.FormDeFotoMostrada.resources
+D:\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.FormSenasParticulares.resources
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.FormSenasParticulares.resources
+D:\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.FormHistoriaClinica.resources
+D:\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.formVacunas.resources
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.FormHistoriaClinica.resources
+D:\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.formVacunas.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\bin\Debug\horse.exe.config
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.exe
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.xml
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.pdb
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\bin\Debug\horse.exe
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\bin\Debug\horse.pdb
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\bin\Debug\horse.xml
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\bin\Debug\Npgsql.pdb
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\bin\Debug\Npgsql.xml
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\bin\Debug\policy.2.0.Npgsql.config
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.vbprojResolveAssemblyReference.cache
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.FormAgregar.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.FormBuscarAvanzado.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.FormDeFotoMostrada.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.FormHistoriaClinica.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.FormInfoGeneral.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.FormPrincipal.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.FormSenasParticulares.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.formVacunas.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.InicioSesion.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.Resources.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.SplashScreen1.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\bin\Debug\horse.exe.config
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\obj\Debug\horse.exe
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\obj\Debug\horse.xml
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\obj\Debug\horse.pdb
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\bin\Debug\horse.exe
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\bin\Debug\horse.pdb
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\bin\Debug\horse.xml
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\bin\Debug\Npgsql.pdb
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\bin\Debug\Npgsql.xml
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\bin\Debug\de\Npgsql.resources.dll
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\bin\Debug\es\Npgsql.resources.dll
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\bin\Debug\fi\Npgsql.resources.dll
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\bin\Debug\fr\Npgsql.resources.dll
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\bin\Debug\ja\Npgsql.resources.dll
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\bin\Debug\policy.2.0.Npgsql.config
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\obj\Debug\horse.vbprojResolveAssemblyReference.cache
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\obj\Debug\horse.FormAgregar.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\obj\Debug\horse.FormBuscarAvanzado.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\obj\Debug\horse.FormDeFotoMostrada.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\obj\Debug\horse.FormHistoriaClinica.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\obj\Debug\horse.FormInfoGeneral.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\obj\Debug\horse.FormPrincipal.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\obj\Debug\horse.FormSenasParticulares.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\obj\Debug\horse.formVacunas.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\obj\Debug\horse.InicioSesion.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\obj\Debug\horse.Resources.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\obj\Debug\horse.SplashScreen1.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\version 3\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\bin\Debug\horse.exe.config
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\obj\Debug\horse.exe
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\obj\Debug\horse.xml
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\obj\Debug\horse.pdb
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\bin\Debug\horse.exe
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\bin\Debug\horse.pdb
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\bin\Debug\horse.xml
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\bin\Debug\Npgsql.pdb
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\bin\Debug\Npgsql.xml
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\bin\Debug\de\Npgsql.resources.dll
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\bin\Debug\es\Npgsql.resources.dll
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\bin\Debug\fi\Npgsql.resources.dll
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\bin\Debug\fr\Npgsql.resources.dll
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\bin\Debug\ja\Npgsql.resources.dll
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\bin\Debug\policy.2.0.Npgsql.config
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\obj\Debug\horse.vbprojResolveAssemblyReference.cache
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\obj\Debug\horse.FormAgregar.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\obj\Debug\horse.FormBuscarAvanzado.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\obj\Debug\horse.FormDeFotoMostrada.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\obj\Debug\horse.FormHistoriaClinica.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\obj\Debug\horse.FormInfoGeneral.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\obj\Debug\horse.FormPrincipal.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\obj\Debug\horse.FormSenasParticulares.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\obj\Debug\horse.formVacunas.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\obj\Debug\horse.InicioSesion.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\obj\Debug\horse.Resources.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\obj\Debug\horse.SplashScreen1.resources
+D:\Dropbox\Proyecto Equinos\ProgramacioN\Version 5\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
+D:\Dropbox\horse\horse\bin\Debug\horse.exe
+D:\Dropbox\horse\horse\bin\Debug\horse.pdb
+D:\Dropbox\horse\horse\bin\Debug\horse.xml
+D:\Dropbox\horse\horse\bin\Debug\Npgsql.pdb
+D:\Dropbox\horse\horse\bin\Debug\Npgsql.xml
+D:\Dropbox\horse\horse\bin\Debug\de\Npgsql.resources.dll
+D:\Dropbox\horse\horse\bin\Debug\es\Npgsql.resources.dll
+D:\Dropbox\horse\horse\bin\Debug\fi\Npgsql.resources.dll
+D:\Dropbox\horse\horse\bin\Debug\fr\Npgsql.resources.dll
+D:\Dropbox\horse\horse\bin\Debug\ja\Npgsql.resources.dll
+D:\Dropbox\horse\horse\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Dropbox\horse\horse\bin\Debug\policy.2.0.Npgsql.config
+D:\Dropbox\horse\horse\obj\Debug\horse.vbprojResolveAssemblyReference.cache
+D:\Dropbox\horse\horse\obj\Debug\horse.FormAgregar.resources
+D:\Dropbox\horse\horse\obj\Debug\horse.FormBuscarAvanzado.resources
+D:\Dropbox\horse\horse\obj\Debug\horse.FormDeFotoMostrada.resources
+D:\Dropbox\horse\horse\obj\Debug\horse.FormHistoriaClinica.resources
+D:\Dropbox\horse\horse\obj\Debug\horse.FormInfoGeneral.resources
+D:\Dropbox\horse\horse\obj\Debug\horse.FormPrincipal.resources
+D:\Dropbox\horse\horse\obj\Debug\horse.FormSenasParticulares.resources
+D:\Dropbox\horse\horse\obj\Debug\horse.formVacunas.resources
+D:\Dropbox\horse\horse\obj\Debug\horse.InicioSesion.resources
+D:\Dropbox\horse\horse\obj\Debug\horse.Resources.resources
+D:\Dropbox\horse\horse\obj\Debug\horse.SplashScreen1.resources
+D:\Dropbox\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\horse.exe.config
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.exe
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.xml
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.pdb
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\horse.exe
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\horse.pdb
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\horse.xml
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\Npgsql.pdb
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\Npgsql.xml
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\de\Npgsql.resources.dll
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\es\Npgsql.resources.dll
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\bin\Debug\policy.2.0.Npgsql.config
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.vbprojResolveAssemblyReference.cache
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.FormAgregar.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.FormBuscarAvanzado.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.FormDeFotoMostrada.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.FormHistoriaClinica.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.FormInfoGeneral.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.FormPrincipal.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.FormSenasParticulares.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.formVacunas.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.InicioSesion.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.Resources.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.SplashScreen1.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
+E:\proyecto de grado\horse\horse\bin\Debug\horse.exe.config
+E:\proyecto de grado\horse\horse\obj\Debug\horse.exe
+E:\proyecto de grado\horse\horse\obj\Debug\horse.xml
+E:\proyecto de grado\horse\horse\obj\Debug\horse.pdb
+E:\proyecto de grado\horse\horse\bin\Debug\horse.exe
+E:\proyecto de grado\horse\horse\bin\Debug\horse.pdb
+E:\proyecto de grado\horse\horse\bin\Debug\horse.xml
+E:\proyecto de grado\horse\horse\bin\Debug\Npgsql.pdb
+E:\proyecto de grado\horse\horse\bin\Debug\Npgsql.xml
+E:\proyecto de grado\horse\horse\bin\Debug\de\Npgsql.resources.dll
+E:\proyecto de grado\horse\horse\bin\Debug\es\Npgsql.resources.dll
+E:\proyecto de grado\horse\horse\bin\Debug\fi\Npgsql.resources.dll
+E:\proyecto de grado\horse\horse\bin\Debug\fr\Npgsql.resources.dll
+E:\proyecto de grado\horse\horse\bin\Debug\ja\Npgsql.resources.dll
+E:\proyecto de grado\horse\horse\bin\Debug\zh-CN\Npgsql.resources.dll
+E:\proyecto de grado\horse\horse\bin\Debug\policy.2.0.Npgsql.config
+E:\proyecto de grado\horse\horse\obj\Debug\horse.vbprojResolveAssemblyReference.cache
+E:\proyecto de grado\horse\horse\obj\Debug\horse.FormAgregar.resources
+E:\proyecto de grado\horse\horse\obj\Debug\horse.FormBuscarAvanzado.resources
+E:\proyecto de grado\horse\horse\obj\Debug\horse.FormDeFotoMostrada.resources
+E:\proyecto de grado\horse\horse\obj\Debug\horse.FormHistoriaClinica.resources
+E:\proyecto de grado\horse\horse\obj\Debug\horse.FormInfoGeneral.resources
+E:\proyecto de grado\horse\horse\obj\Debug\horse.FormPrincipal.resources
+E:\proyecto de grado\horse\horse\obj\Debug\horse.FormSenasParticulares.resources
+E:\proyecto de grado\horse\horse\obj\Debug\horse.formVacunas.resources
+E:\proyecto de grado\horse\horse\obj\Debug\horse.InicioSesion.resources
+E:\proyecto de grado\horse\horse\obj\Debug\horse.Resources.resources
+E:\proyecto de grado\horse\horse\obj\Debug\horse.SplashScreen1.resources
+E:\proyecto de grado\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
+H:\proyecto de grado\horse\horse\bin\Debug\horse.exe.config
+H:\proyecto de grado\horse\horse\obj\Debug\horse.exe
+H:\proyecto de grado\horse\horse\obj\Debug\horse.xml
+H:\proyecto de grado\horse\horse\obj\Debug\horse.pdb
+H:\proyecto de grado\horse\horse\bin\Debug\horse.exe
+H:\proyecto de grado\horse\horse\bin\Debug\horse.pdb
+H:\proyecto de grado\horse\horse\bin\Debug\horse.xml
+H:\proyecto de grado\horse\horse\bin\Debug\Npgsql.pdb
+H:\proyecto de grado\horse\horse\bin\Debug\Npgsql.xml
+H:\proyecto de grado\horse\horse\bin\Debug\de\Npgsql.resources.dll
+H:\proyecto de grado\horse\horse\bin\Debug\es\Npgsql.resources.dll
+H:\proyecto de grado\horse\horse\bin\Debug\fi\Npgsql.resources.dll
+H:\proyecto de grado\horse\horse\bin\Debug\fr\Npgsql.resources.dll
+H:\proyecto de grado\horse\horse\bin\Debug\ja\Npgsql.resources.dll
+H:\proyecto de grado\horse\horse\bin\Debug\zh-CN\Npgsql.resources.dll
+H:\proyecto de grado\horse\horse\bin\Debug\policy.2.0.Npgsql.config
+H:\proyecto de grado\horse\horse\obj\Debug\horse.vbprojResolveAssemblyReference.cache
+H:\proyecto de grado\horse\horse\obj\Debug\horse.FormAgregar.resources
+H:\proyecto de grado\horse\horse\obj\Debug\horse.FormBuscarAvanzado.resources
+H:\proyecto de grado\horse\horse\obj\Debug\horse.FormDeFotoMostrada.resources
+H:\proyecto de grado\horse\horse\obj\Debug\horse.FormHistoriaClinica.resources
+H:\proyecto de grado\horse\horse\obj\Debug\horse.FormInfoGeneral.resources
+H:\proyecto de grado\horse\horse\obj\Debug\horse.FormPrincipal.resources
+H:\proyecto de grado\horse\horse\obj\Debug\horse.FormSenasParticulares.resources
+H:\proyecto de grado\horse\horse\obj\Debug\horse.formVacunas.resources
+H:\proyecto de grado\horse\horse\obj\Debug\horse.InicioSesion.resources
+H:\proyecto de grado\horse\horse\obj\Debug\horse.Resources.resources
+H:\proyecto de grado\horse\horse\obj\Debug\horse.SplashScreen1.resources
+H:\proyecto de grado\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\bin\Debug\horse.exe.config
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\obj\Debug\horse.exe
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\obj\Debug\horse.xml
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\obj\Debug\horse.pdb
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\bin\Debug\horse.exe
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\bin\Debug\horse.pdb
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\bin\Debug\horse.xml
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\bin\Debug\Npgsql.pdb
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\bin\Debug\Npgsql.xml
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\bin\Debug\de\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\bin\Debug\es\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\bin\Debug\fi\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\bin\Debug\fr\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\bin\Debug\ja\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\bin\Debug\policy.2.0.Npgsql.config
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\obj\Debug\horse.vbprojResolveAssemblyReference.cache
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\obj\Debug\horse.FormAgregar.resources
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\obj\Debug\horse.FormBuscarAvanzado.resources
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\obj\Debug\horse.FormDeFotoMostrada.resources
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\obj\Debug\horse.FormHistoriaClinica.resources
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\obj\Debug\horse.FormInfoGeneral.resources
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\obj\Debug\horse.FormPrincipal.resources
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\obj\Debug\horse.FormSenasParticulares.resources
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\obj\Debug\horse.formVacunas.resources
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\obj\Debug\horse.InicioSesion.resources
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\obj\Debug\horse.Resources.resources
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\obj\Debug\horse.SplashScreen1.resources
+D:\Dropbox\Programacion TESIS\Version 9\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\horse.exe.config
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.exe
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.xml
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.pdb
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\horse.exe
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\horse.pdb
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\horse.xml
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\Npgsql.pdb
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\Npgsql.xml
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\de\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\es\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\fi\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\fr\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\ja\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\policy.2.0.Npgsql.config
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.vbprojResolveAssemblyReference.cache
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.FormAgregar.resources
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.FormBuscarAvanzado.resources
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.FormDeFotoMostrada.resources
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.FormHistoriaClinica.resources
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.FormInfoGeneral.resources
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.FormPrincipal.resources
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.FormSenasParticulares.resources
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.InicioSesion.resources
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.Resources.resources
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.SplashScreen1.resources
+D:\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\bin\Debug\horse.exe.config
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\obj\Debug\horse.exe
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\obj\Debug\horse.xml
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\obj\Debug\horse.pdb
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\bin\Debug\horse.exe
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\bin\Debug\horse.pdb
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\bin\Debug\horse.xml
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\bin\Debug\Npgsql.pdb
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\bin\Debug\Npgsql.xml
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\bin\Debug\de\Npgsql.resources.dll
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\bin\Debug\es\Npgsql.resources.dll
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\bin\Debug\policy.2.0.Npgsql.config
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\obj\Debug\horse.vbprojResolveAssemblyReference.cache
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\obj\Debug\horse.FormAgregar.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\obj\Debug\horse.FormBuscarAvanzado.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\obj\Debug\horse.FormDeFotoMostrada.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\obj\Debug\horse.FormHistoriaClinica.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\obj\Debug\horse.FormInfoGeneral.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\obj\Debug\horse.FormPrincipal.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\obj\Debug\horse.FormSenasParticulares.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\obj\Debug\horse.formVacunas.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\obj\Debug\horse.InicioSesion.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\obj\Debug\horse.Resources.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\obj\Debug\horse.SplashScreen1.resources
+C:\Users\san\Dropbox\Desarrollo proyecto visual .net con mi nati hermosa\El actual utilizando\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\horse.exe.config
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.exe
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.xml
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.pdb
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\horse.exe
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\horse.pdb
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\horse.xml
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\Npgsql.pdb
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\Npgsql.xml
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\bin\Debug\policy.2.0.Npgsql.config
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.vbprojResolveAssemblyReference.cache
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.FormAgregar.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.FormBuscarAvanzado.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.FormDeFotoMostrada.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.FormHistoriaClinica.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.FormInfoGeneral.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.FormPrincipal.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.FormSenasParticulares.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.formVacunas.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.InicioSesion.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.Resources.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.SplashScreen1.resources
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
+C:\Users\Cooperativa\Dropbox\Programacion TESIS\El actual utilizando\horse\horse\obj\Debug\horse.formBuscarHistoria.resources
+C:\Users\Cooperativa\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\bin\Debug\horse.exe.config
+C:\Users\Cooperativa\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.exe
+C:\Users\Cooperativa\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.xml
+C:\Users\Cooperativa\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.pdb
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\bin\Debug\horse.exe.config
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.exe
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.xml
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.pdb
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.vbprojResolveAssemblyReference.cache
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.FormAgregar.resources
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.FormBuscarAvanzado.resources
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.formBuscarHistoria.resources
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.FormDeFotoMostrada.resources
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.FormHistoriaClinica.resources
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.FormInfoGeneral.resources
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.FormPrincipal.resources
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.FormSenasParticulares.resources
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.formVacunas.resources
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.InicioSesion.resources
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.Resources.resources
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.SplashScreen1.resources
+D:\Dropbox\Proyecto Equinos\Copias seguridad\Version 11\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
+C:\Users\daniel\Desktop\Version 11\horse\horse\bin\Debug\horse.exe.config
+C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.exe
+C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.xml
+C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.pdb
+C:\Users\daniel\Desktop\Version 11\horse\horse\bin\Debug\horse.exe
+C:\Users\daniel\Desktop\Version 11\horse\horse\bin\Debug\horse.pdb
+C:\Users\daniel\Desktop\Version 11\horse\horse\bin\Debug\horse.xml
+C:\Users\daniel\Desktop\Version 11\horse\horse\bin\Debug\Npgsql.pdb
+C:\Users\daniel\Desktop\Version 11\horse\horse\bin\Debug\Npgsql.xml
+C:\Users\daniel\Desktop\Version 11\horse\horse\bin\Debug\de\Npgsql.resources.dll
+C:\Users\daniel\Desktop\Version 11\horse\horse\bin\Debug\es\Npgsql.resources.dll
+C:\Users\daniel\Desktop\Version 11\horse\horse\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\daniel\Desktop\Version 11\horse\horse\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\daniel\Desktop\Version 11\horse\horse\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\daniel\Desktop\Version 11\horse\horse\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\daniel\Desktop\Version 11\horse\horse\bin\Debug\policy.2.0.Npgsql.config
+C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.vbprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.FormAgregar.resources
+C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.FormBuscarAvanzado.resources
+C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.formBuscarHistoria.resources
+C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.FormDeFotoMostrada.resources
+C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.FormHistoriaClinica.resources
+C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.FormInfoGeneral.resources
+C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.FormPrincipal.resources
+C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.FormSenasParticulares.resources
+C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.formVacunas.resources
+C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.InicioSesion.resources
+C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.Resources.resources
+C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.SplashScreen1.resources
+C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
