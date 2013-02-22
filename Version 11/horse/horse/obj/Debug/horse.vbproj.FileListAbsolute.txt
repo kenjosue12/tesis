@@ -452,3 +452,7 @@ C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.InicioSesion.reso
 C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.Resources.resources
 C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.SplashScreen1.resources
 C:\Users\daniel\Desktop\Version 11\horse\horse\obj\Debug\horse.vbproj.GenerateResource.Cache
+C:\Users\daniel\Documents\GitHub\tesis\Version 11\horse\horse\bin\Debug\horse.exe.config
+C:\Users\daniel\Documents\GitHub\tesis\Version 11\horse\horse\obj\Debug\horse.exe
+C:\Users\daniel\Documents\GitHub\tesis\Version 11\horse\horse\obj\Debug\horse.xml
+C:\Users\daniel\Documents\GitHub\tesis\Version 11\horse\horse\obj\Debug\horse.pdb
